@@ -1,2 +1,32 @@
-# credit-risk-prediction
-A machine learning project for credit risk prediction using the LendingClub dataset (2007–2014). Includes data understanding, feature engineering, exploratory data analysis, data preparation and model training with Logistic Regression and Random Forest Final model achieves nearly perfect performance with Random Forest selected as the best model.
+# Credit Risk Prediction
+
+## 📌 Project Overview
+Machine learning project to predict **loan default risk** using the **LendingClub dataset (2007–2014)**.  
+Covers data cleaning, feature engineering, EDA, preparation, model training, and evaluation.  
+
+---
+
+## 🎯 Problem Statement
+Financial institutions need to assess **loan default risk** before approval.  
+Goal: classify loans into:  
+- **Fully Paid (0)**  
+- **Charged Off (1)**  
+
+---
+
+## 🛠 Methods
+- **Models:** Logistic Regression (baseline) & Random Forest.  
+- **Evaluation Metrics:** Accuracy, Precision, Recall, F1-score, ROC-AUC.  
+
+---
+
+## 📊 Results
+- Logistic Regression → Accuracy: ~100%, ROC-AUC: 0.999  
+- Random Forest → Accuracy: ~100%, ROC-AUC: 1.000  
+- **Random Forest chosen as final model** due to slightly better performance.  
+
+---
+
+## ✅ Conclusion
+The project shows that **interest rate, grade, and DTI** are key indicators of loan default risk.  
+Random Forest provides the most consistent results and can support better **credit risk management**.  
