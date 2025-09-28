@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 Machine learning project to predict **loan default risk** using the **loan_data_2007_2014 dataset**.  
 Covers data cleaning, feature engineering, EDA, preparation, model training, and evaluation.  
+https://drive.google.com/drive/folders/1demEFp_i47EC8sJCocU9ubAeEQthUYR_?usp=drive_link
 
 ---
 
