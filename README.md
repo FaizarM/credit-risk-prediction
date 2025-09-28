@@ -1,7 +1,7 @@
 # Credit Risk Prediction
 
 ## 📌 Project Overview
-Machine learning project to predict **loan default risk** using the **LendingClub dataset (2007–2014)**.  
+Machine learning project to predict **loan default risk** using the **loan_data_2007_2014 dataset**.  
 Covers data cleaning, feature engineering, EDA, preparation, model training, and evaluation.  
 
 ---
